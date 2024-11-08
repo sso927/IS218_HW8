@@ -38,4 +38,4 @@ For this assignment I want you to watch the following two videos and create your
 
 For example (change it to yours):
 
-![DockerHub screenshot](dockerhub_screenshot.png)
+![DockerHub screenshot](dockerhubimage.png)
